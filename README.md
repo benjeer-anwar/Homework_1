@@ -11,3 +11,9 @@ Adding line Adding line 6 for assignment part 3
 Adding line Adding line 7 for assignment part 3
 Adding line Adding line 8 for assignment part 3
 Adding line Adding line 9 for assignment part 3
+===============================================
+Add line 1 for stashing 
+Add line 2 for stashing 
+Add line 3 for stashing 
+Add line 4 for stashing 
+
