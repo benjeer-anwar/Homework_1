@@ -16,4 +16,7 @@ Add line 1 for stashing
 Add line 2 for stashing 
 Add line 3 for stashing 
 Add line 4 for stashing 
+=======================================
+Split commit 1
+Split commit 1
 
