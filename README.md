@@ -10,3 +10,15 @@ Adding line Adding line 5 for assignment part 3
 Adding line Adding line 6 for assignment part 3
 Adding line Adding line 7 for assignment part 3
 Adding line Adding line 8 for assignment part 3
+Adding line Adding line 9 for assignment part 3
+===============================================
+Add line 1 for stashing 
+Add line 2 for stashing 
+Add line 3 for stashing 
+Add line 4 for stashing 
+=======================================
+Split commit 1
+Split commit 1
+
+# Homework_2
+This line is to add and commit my first line part of homework_2
